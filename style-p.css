@@ -1,0 +1,156 @@
+body {
+    margin:0;
+    height:100%;
+    overflow: hidden;
+}
+.left-nav {
+    width:270px;
+    height:100%;
+   
+    position: absolute;
+
+    border-right: 1px solid rgb(207, 193, 193);
+}
+.div-middle {
+    width:100%;
+    height:100%;
+    margin-left:270px;
+    position: absolute;
+}
+.insta-text {
+    width:150px;
+    margin:30px
+}
+.div-img {
+   
+    display:flex;
+    font-size:20px;
+    margin-left: 30px;
+    
+}
+.image {
+    width:24px;
+    margin-top:28px;
+   
+}
+.icon-text {
+
+    position: absolute;
+    margin-left:40px;
+    margin-top:4px;
+    margin-top:32px;
+}
+.my-img {
+    border-radius: 100px;
+}
+.div-dp {
+    width:350px;
+    height:320px;
+    position: absolute;
+}
+.details {
+    width:60%;
+    height:80%;
+    position: absolute;
+    margin-left:350px;
+
+}
+.dp{
+    margin: 25%;
+}
+.top-details {
+    width:100%;
+    height:90px;
+}
+.ac-id{
+    font-size:40px;
+    margin-left:30px;
+}
+.follow{
+    margin-left:30px;
+    width:90px;
+    height:30px;
+    border-radius:7px;
+    color:white;
+    background:#0095F6;
+    border:none;
+    font-weight: bold;
+    opacity: 0.9;
+}
+.follow:hover {
+    opacity: 1;
+}
+.btn {
+    margin-left:10px;
+    font-weight: bold;
+    opacity: 0.7;
+}
+.btn:hover{
+    opacity: 1;
+}
+.message{
+    width:90px;
+    height:30px;
+    border-radius:7px;
+    color:black;
+    border:none;
+}
+.add-img {
+    width:22px;
+}
+.add {
+    border-radius: 7px;
+    border:none;
+    margin-top:17px;
+    position: absolute;
+}
+.more {
+    margin-left:60px;
+    background:transparent;
+    border:none;
+    position:absolute;
+    height:22px;
+    margin-top:14px;
+}
+.more-img {
+    rotate:90deg;
+    
+}
+.followers {
+    margin-top:10px;
+    margin-left:30px
+   
+}
+.text-followers {
+    margin-left:40px;
+}
+.tick {
+    width:30px;
+}
+.text-expert{
+    color:grey;
+}
+.ac-bio{
+    margin-left:30px;
+    margin-top:10px;
+    position: absolute;
+}
+.hr{
+    margin-top:450px;
+    
+}
+.img-post {
+    width:14px;
+    margin-left:50px;
+    
+}
+.div-post {
+    word-spacing: 0px;
+    margin-left:300px;
+}
+.post {
+    width:300px;
+    position: absolute;
+    margin-left:60px;
+    margin-top:10px;
+}
