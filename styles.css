@@ -1,0 +1,104 @@
+
+.insta-text {
+    width:90px;
+    height:30px;
+    
+}
+.right-menu {
+    display:flex;
+    margin-left:67%;
+    
+}
+.top-head {
+    display:flex;
+    width:490px;
+   
+}
+.insta {
+    margin-right: 10px;
+}
+.create {
+    border-radius:500px;
+}
+.div-story {
+    height:80px;
+    
+    word-spacing: 10px;
+}
+.story {
+    width:80px;
+    height:80px;
+    border:2px solid;
+    border-radius:100px;
+    margin-top:3px;
+    margin-left:3px;
+    
+ 
+    
+}
+.div {
+    background:linear-gradient(violet,red,yellow);
+    width:90px;
+    height:90px;
+    border-radius:100px;
+    margin-top:5px;
+    margin-left:5px;
+    
+}
+.my-st {
+    margin-left:10px;
+}
+.messi{
+  margin-left:18px;
+}
+.and {
+    margin-left: 12px;
+}
+.ins{
+    margin-left:10px;
+}
+.nas{
+    margin-left:22px;
+}
+.my-s{
+    margin-left:4px;
+}
+.tick {
+    width:20px;
+    margin-top:2px;
+   }
+.ac-messi {
+
+    width:25px;
+    border:none;
+    border-radius:100px;
+    margin-top:50px;
+    margin-left:5px;
+}
+.name {
+    margin-left:10px;
+    margin-top:53px;
+    position:absolute;
+}
+.icon-more{
+    margin-left:440px;
+    height:25px;
+}
+.messi-cup {
+    margin-top:10px;
+    width:490px;
+    height:440px;
+    border-radius: 3px;
+}
+hr{
+    width:490px;
+    margin-left:-0px
+}
+.vr {
+    height:500pc;
+    position:absolute;
+    background:black;
+    width:1px;
+    margin-left:85px;
+    
+}
